@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 test conflict file7
-=======
 new file7
->>>>>>> fd9fec3 (add file7)
