@@ -25,6 +25,7 @@ pipeline {
         stage('Package') {
             steps {
                 echo 'Hello World! Package'
+                echo 'test webhook'
             }
         }
     }
