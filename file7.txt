@@ -1,2 +1,3 @@
 test conflict file7
 new file7
+test SCM
